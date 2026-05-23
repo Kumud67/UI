@@ -15,3 +15,4 @@ readme file
 controller
 service
 repo
+user model
