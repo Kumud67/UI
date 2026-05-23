@@ -16,3 +16,4 @@ controller
 service
 repo
 user model
+model dto
